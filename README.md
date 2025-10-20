@@ -66,7 +66,35 @@ lib/
 
 ## 📱 Screenshots
 
-[Add your app screenshots here]
+### Main Navigation & Grade Selection
+<div align="center">
+  <img src="assets/screenshots/1.png" alt="Main Navigation" width="400"/>
+  <img src="assets/screenshots/2.png" alt="Grade Selection" width="400"/>
+</div>
+
+### Student Registration & Data Management
+<div align="center">
+  <img src="assets/screenshots/3.png" alt="Student Registration Form" width="400"/>
+  <img src="assets/screenshots/4.png" alt="Student Data Table" width="400"/>
+</div>
+
+### Theme Management & Settings
+<div align="center">
+  <img src="assets/screenshots/5.png" alt="Dark Theme" width="400"/>
+  <img src="assets/screenshots/6.png" alt="Light Theme" width="400"/>
+</div>
+
+### Group Management & Advanced Features
+<div align="center">
+  <img src="assets/screenshots/7.png" alt="Group Management" width="400"/>
+  <img src="assets/screenshots/8.png" alt="Advanced Features" width="400"/>
+</div>
+
+### light Mode & Latest Feature
+<div align="center">
+  <img src="assets/screenshots/9.png" alt="light mode" width="400"/>
+  <img src="assets/screenshots/20251020-220321.png" alt="Latest Feature" width="400"/>
+</div>
 
 ## 🔧 Technical Details
 
